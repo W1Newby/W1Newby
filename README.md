@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm William Newby I'm a second year Computer Science M.S. student at PSU. I have over five years of experience at Intel Corporation as a technician. I am proficient in C/C++, skilled in Java and JavaScript. Seeking an entry level SW engineering position.
+
 
 <!--
 **W1Newby/W1Newby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
