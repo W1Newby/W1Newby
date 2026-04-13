@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm William Newby I'm a second year Computer Science M.S. student at PSU. I have over five years of experience at Intel Corporation as a technician. I am proficient in C/C++, skilled in Java and JavaScript. Seeking an entry level SW engineering position.
+### I'm wrapping up my CS degree at PSU, working on developing device automation at Intel for an internship at the moment.
 
 
 <!--
